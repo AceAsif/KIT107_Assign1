@@ -4,7 +4,7 @@ I got 93.75% which is a HD for this assignment.
 
 My solution runs in Dr Java and comprise the following files:
 
-• SweetFAInterface.java and SweetFA.java — the Flavour ADT. You should have the following methods: a constructor, ‘getters’ and ‘setters’ for the curry concentration object and number of banana pieces, and ‘doer’ methods to calculate the flavour, determine whether the flavour exceeds the threshold, and convert the flavour to each of a double and a String.
+• SweetFAInterface.java and SweetFA.java — the Flavour ADT. I have the following methods: a constructor, ‘getters’ and ‘setters’ for the curry concentration object and number of banana pieces, and ‘doer’ methods to calculate the flavour, determine whether the flavour exceeds the threshold, and convert the flavour to each of a double and a String.
 
 • CurryInterface.java and Curry.java — the specification and implementation (respectively) of a curry concentration. A curry concentration should be implemented as a class with instance variables which consist of:
 
